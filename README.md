@@ -1,2 +1,3 @@
 this is an application devloped in react js helping to keep a track on your expenses 
-[screen-capture.webm](https://user-images.githubusercontent.com/8845981/205063616-5bace85a-6632-40fe-8e98-a2cdf67c62e2.webm)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/8845981/205064160-b2ee4a7c-5935-4f27-b3fe-86fcd3ff58ea.gif)
